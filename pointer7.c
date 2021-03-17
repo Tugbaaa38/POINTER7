@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//adreslerin artirilmasi ve cikarilmasi
+
 
 int main() {
 	
