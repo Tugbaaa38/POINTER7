@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
 int main() {
 	
 	int i;
@@ -22,7 +20,5 @@ int main() {
     	
 	}
 	//iki kod da bize ayni ciktiyi verecektir..
-	
-	
 	return 0;
 }
